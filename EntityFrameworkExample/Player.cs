@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 
 
-using System.Threading.Tasks;
-
 namespace EntityFrameworkExample
 {
     public class Player
